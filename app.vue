@@ -9,8 +9,10 @@
     </title>
   </Head>
 
+
+  <img src="/adrien-olichon-SImgbUoEq8E-unsplash.jpg" class="absolute top-0 left-0 h-screen w-screen opacity-50"/>
   <!-- Hero -->
-  <div class="hero min-h-screen" style="background-image: url(/adrien-olichon-SImgbUoEq8E-unsplash.jpg);">
+  <div class="hero min-h-screen bg-transparent">
     <!-- Background image by <a href="https://unsplash.com/@adrienolichon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adrien Olichon</a> on <a href="https://unsplash.com/photos/SImgbUoEq8E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
     <div class="hero-overlay bg-opacity-60"></div>
     <div class="hero-content text-center text-neutral-content">
