@@ -25,8 +25,8 @@
               exercitationem quasi.</p>
           </div>
         </div>
-        <button class="btn btn-primary mt-6" @click="this.$refs['page'].scrollIntoView({ behavior: 'smooth' })">Learn
-          more</button>
+        <!-- <button class="btn btn-primary mt-6" @click="this.$refs['page'].scrollIntoView({ behavior: 'smooth' })">Learn
+          more</button> -->
       </div>
     </div>
   </div>
@@ -40,7 +40,7 @@
         <p class="text-4xl lg:text-7xl m-4">@theKevinKretz</p>
         <div class="flex justify-evenly w-full m-4">
           <NuxtLink to="https://twitter.com/theKevinKretz">Twitter</NuxtLink>
-          <NuxtLink to="https://www.linkedin.com/in/theKevinKretz/">LinkedIn</NuxtLink>
+          <NuxtLink to="https://linkedin.com/in/theKevinKretz/">LinkedIn</NuxtLink>
           <NuxtLink to="https://github.com/theKevinKretz">GitHub</NuxtLink>
         </div>
       </div>
